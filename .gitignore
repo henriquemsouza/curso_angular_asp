@@ -423,3 +423,5 @@ _[Ss]cripts
 *.dll
 *.nupkg
 *.ncrunchsolution
+
+.db
